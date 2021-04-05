@@ -1,2 +1,3 @@
 # contadort
-Twitter counter in the nickname
+
+Contador para Twitter con emojis
